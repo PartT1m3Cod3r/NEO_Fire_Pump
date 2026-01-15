@@ -1,3 +1,9 @@
+-- ============================================================================
+-- NEO Fire Pump Control System
+-- Version: 1.0.0
+-- Description: SMS-controlled fire pump with monitoring and alerts
+-- ============================================================================
+
 core.updateInterval = 1000  -- 1 second interval for more responsive monitoring
 
 -- ============================================================================
